@@ -10,4 +10,4 @@ I'm a independent developer, mainly work in front-end and back-end.
 ![Astro](https://img.shields.io/badge/-Astro-da62c4.svg?style=flat-square&logo=astro&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-dedede?style=flat-square&logo=tailwind-css)
 ![Go](https://img.shields.io/badge/-Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)
+<!--![Android](https://img.shields.io/badge/-Android-3DDC84.svg?style=flat-square&logo=android&logoColor=white)-->
